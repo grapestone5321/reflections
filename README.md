@@ -2,7 +2,7 @@
 
 # reflections
 
-###Reflect: Using diff to Find Bugs
+### Reflect: Using diff to Find Bugs
 
 ### Make sure you can access the command line
 
