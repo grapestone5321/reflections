@@ -28,4 +28,8 @@ You can do this by running the following commands in either Git Bash or the term
 
 
 
+If you prefer, rather than creating the file from scratch, you could download the lesson_1_reflections_prompts.txt file from the Downloadables section, place it in the reflections directory and rename it, then add your response after the first prompt.
+
+Once you’ve saved your file, if you want to double-check that everything has gone as planned, try these commands:
+
 
