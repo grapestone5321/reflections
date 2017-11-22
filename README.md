@@ -32,4 +32,11 @@ If you prefer, rather than creating the file from scratch, you could download th
 
 Once you’ve saved your file, if you want to double-check that everything has gone as planned, try these commands:
 
+If you're having trouble getting this working, videos at the end of the lesson called "Setting up Your Workspace on Windows" and "Setting Up Your Workspace on Mac" will demonstrate parts of this process, so you might want to wait until then. In the mean time, you can create the directories and file using your OS’s Graphical Interface for working with files (Finder, Windows Explorer, etc). It's good to get some practice using the command line, though, since we'll be using it a lot in this course, so once you've watched the workspace instructions, make sure you can complete actions like this on the command line.
+
+You are also welcome to use a different naming scheme, but later in the course we will refer to this file structure and it will be up to you to translate to whatever naming scheme you chose instead!
+
+
+
+
 
