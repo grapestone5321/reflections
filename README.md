@@ -26,7 +26,14 @@ Right now, you should create a version-control directory (a more computer-scienc
 
 You can do this by running the following commands in either Git Bash or the terminal (the bits after the # signs are comments, anything after those are not interpreted):
 
-
+```
+cd ~                          # change directories to your home directory
+mkdir version-control         # make version-control directory
+cd version-control            # go to version-control directory
+mkdir reflections             # create reflections directory
+cd reflections                # go to reflections directory
+subl lesson_1_reflections.txt # launch sublime with file called lesson_1_reflections.txt (you can replace subl with another editor here if you prefer a different one)
+```
 
 If you prefer, rather than creating the file from scratch, you could download the lesson_1_reflections_prompts.txt file from the Downloadables section, place it in the reflections directory and rename it, then add your response after the first prompt.
 
