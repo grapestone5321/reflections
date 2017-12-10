@@ -53,5 +53,6 @@ Many command line tools, including Git, are less useful if your files contain ve
 
 For this reason, it is a good idea to make sure you keep your lines reasonably short when writing your reflections (or other plain-text files). The exact limit is a matter of personal preference. Many developers use a max line length of 80 to 120 characters. Some editors can automatically insert line breaks for you, but for others, like Sublime, you will need to remember to press enter when you want to create a new line.
 
-
+### Do the first reflection exercise
+Populate lesson_1_reflections.txt with the following question and your thoughts on it:
 
