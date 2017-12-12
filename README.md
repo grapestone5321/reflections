@@ -63,3 +63,10 @@ Like Sarah said, there is a lot of research out there on reflection. If you want
 
 For a more in-depth look, check out this seminal 20-page paper on the topic.
 
+## Reflect: How Do You Want to Use Git?
+Go add the following question and your thoughts on it to your reflections file: 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+When you've updated your document, click "Next" and we'll wrap up the lesson.
+
