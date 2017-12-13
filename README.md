@@ -63,6 +63,15 @@ Like Sarah said, there is a lot of research out there on reflection. If you want
 
 For a more in-depth look, check out this seminal 20-page paper on the topic.
 
+## Reflect: Using History for Efficiency
+Now that you've learned about some version control systems, and how they can help you save the history of a file, go add the following question and your thoughts on it to your reflections file: 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When you've updated your document, click "Next" to learn about some differences between these version control systems.
+
+
+
 ## Reflect: How Do You Want to Use Git?
 Go add the following question and your thoughts on it to your reflections file: 
 
