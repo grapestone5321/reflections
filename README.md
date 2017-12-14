@@ -70,7 +70,12 @@ How could having easy access to the entire history of a file make you a more eff
 
 When you've updated your document, click "Next" to learn about some differences between these version control systems.
 
+## Reflect: Manual Commits
+Now you've learned about Git commits and thought about good times to create commits, go add the following question and your thoughts on it to your reflections file: 
 
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+When you've updated your document, click "Next" and Sarah will go over another difference between version control systems.
 
 ## Reflect: How Do You Want to Use Git?
 Go add the following question and your thoughts on it to your reflections file: 
