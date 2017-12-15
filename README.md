@@ -77,6 +77,13 @@ What do you think are the pros and cons of manually choosing when to create a co
 
 When you've updated your document, click "Next" and Sarah will go over another difference between version control systems.
 
+## Reflect: Multi-File Commits
+Go add the following question and your thoughts on it to your reflections file: 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+When you've updated your document, click "Next", and an experienced Git user will share why version control is useful to him.
+
 ## Reflect: How Do You Want to Use Git?
 Go add the following question and your thoughts on it to your reflections file: 
 
