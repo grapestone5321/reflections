@@ -84,6 +84,13 @@ Why do you think some version control systems, like Git, allow saving multiple f
 
 When you've updated your document, click "Next", and an experienced Git user will share why version control is useful to him.
 
+## Reflect: Using Git to View History
+Now that you've had some experience using Git yourself, go add the following question and your thoughts on it to your reflections file: 
+
+How can you use the commands git log and git diff to view the history of files?
+
+When you've updated your document, click "Next" to add more concepts to your map with Sarah. Then you'll learn how to use Git to return to previous versions of your files.
+
 ## Reflect: How Do You Want to Use Git?
 Go add the following question and your thoughts on it to your reflections file: 
 
