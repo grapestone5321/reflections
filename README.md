@@ -53,6 +53,7 @@ Many command line tools, including Git, are less useful if your files contain ve
 
 For this reason, it is a good idea to make sure you keep your lines reasonably short when writing your reflections (or other plain-text files). The exact limit is a matter of personal preference. Many developers use a max line length of 80 to 120 characters. Some editors can automatically insert line breaks for you, but for others, like Sublime, you will need to remember to press enter when you want to create a new line.
 
+
 ### Do the first reflection exercise
 Populate lesson_1_reflections.txt with the following question and your thoughts on it:
 
@@ -90,6 +91,13 @@ Now that you've had some experience using Git yourself, go add the following que
 How can you use the commands git log and git diff to view the history of files?
 
 When you've updated your document, click "Next" to add more concepts to your map with Sarah. Then you'll learn how to use Git to return to previous versions of your files.
+
+## Reflect: Confidence from Version Control
+Now that you know how to return to a previous version of your files using Git, go add the following question and your thoughts on it to your reflections file: 
+
+How might using version control make you more confident to make changes that could break something?
+
+When you've updated your document, click "Next" to start configuring a workspace that will make you more efficient at using Git.
 
 ## Reflect: How Do You Want to Use Git?
 Go add the following question and your thoughts on it to your reflections file: 
