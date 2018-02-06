@@ -106,3 +106,12 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 When you've updated your document, click "Next" and we'll wrap up the lesson.
 
+
+## Reflect: Initializing a Repository
+Now that you’ve initialized your first repository, go to your reflections directory, create a new file called lesson_2_reflections.txt, and add the following question and your thoughts on it:
+
+What happens when you initialize a repository? Why do you need to do it?
+
+You may also wish to run git status after you have created the file. You should see that now both files are listed as untracked files.
+
+
