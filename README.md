@@ -114,4 +114,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 You may also wish to run git status after you have created the file. You should see that now both files are listed as untracked files.
 
+## Reflect: Staging Area
+Now that you’ve added a file to the staging area (or maybe multiple files!), go add the following question and your thoughts on it to your lesson_2_reflections file: 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+When you've updated your document, click "Next" and Caroline will go over how to commit the changes you’ve added to the staging area.
