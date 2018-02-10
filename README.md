@@ -128,3 +128,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will go over a concept called branching.
 
+## Reflect: When to Use Branches
+Now that you’ve learned how to create a branch in Git, go add the following question and your thoughts on it to your reflections file: 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" to hear a perspective from an experienced Git user.
+
+
