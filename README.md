@@ -120,3 +120,11 @@ Now that you’ve added a file to the staging area (or maybe multiple files!), g
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 When you've updated your document, click "Next" and Caroline will go over how to commit the changes you’ve added to the staging area.
+
+## Reflect: Commit Size
+Now that you’ve committed changes using the staging area, go add the following question and your thoughts on it to your lesson_2_reflections file: 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will go over a concept called branching.
+
