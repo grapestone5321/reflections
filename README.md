@@ -135,4 +135,11 @@ What are some situations when branches would be helpful in keeping your history 
 
 You may also want to commit your changes to the file. When you're ready to move on, click "Next" to hear a perspective from an experienced Git user.
 
+## Reflect: Visualizing with Diagrams
+Now that you’ve had some experience creating branches and drawing diagrams of your history, go add the following question and your thoughts on it to your reflections file: 
+
+How do the diagrams help you visualize the branch structure?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next."
+
 
